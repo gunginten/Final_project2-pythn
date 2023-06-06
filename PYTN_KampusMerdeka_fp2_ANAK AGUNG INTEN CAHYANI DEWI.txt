@@ -1,0 +1,6 @@
+Nama			: ANAK AGUNG INTEN CAHYANI DEWI
+Kode Peserta	: PYTN-KS14-021
+Kelas			: PYTN-KS14
+
+Berikut merupakan link repositiry github dari tugas yang sudah saya kerjakan.
+https://github.com/gunginten/Final_project2-pythn.git
